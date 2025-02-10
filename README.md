@@ -1,1 +1,3 @@
-# MBA---ML-Project
+# Mahindra Stock Price Prediction using Deep Learning  
+
+This project leverages deep learning models (RNNs/LSTMs) to predict stock prices based on historical market data. It involves data collection, preprocessing, exploratory analysis, model training, and evaluation using time series forecasting techniques. Backtesting strategies and visualization methods are used to assess model performance. Key learning objectives include financial forecasting, deep learning applications, and business implications. Future enhancements may incorporate sentiment analysis, ensemble models, and external economic factors.  
